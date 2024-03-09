@@ -1,0 +1,10 @@
+Source reference:
+Favicon: https://favicon.io/favicon-generator/
+Slider: https://www.w3schools.com/howto/howto_js_rangeslider.asp
+Slideshow concept: https://www.w3schools.com/howto/howto_js_slideshow.asp
+Slideshow picture:
+1. https://www.google.com/search?q=%E5%8C%97%E5%8D%80%E5%A4%A7%E6%9C%83%E5%A0%82&sca_esv=590892788&tbm=isch&sxsrf=AM9HkKnNpTv7qlt3KZxQq7bv2UpTnyh8-w:1702558951704&source=lnms&sa=X&ved=2ahUKEwit35ms_o6DAxW6k1YBHXR_D98Q_AUoAnoECAMQBA&biw=1146&bih=602&dpr=1.25#imgrc=WOJ3pHER-f2mqM
+2. https://www.google.com/search?q=%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8&tbm=isch&ved=2ahUKEwi33pmt_o6DAxUfZ_UHHX36DNMQ2-cCegQIABAA&oq=%E4%BC%8A%E5%88%A9%E6%B2%99%E4%BC%AF%E9%AB%94%E8%82%B2%E9%A4%A8&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYOgQIIxAnOgcIIxDqAhAnUMDUAlizggNg_4UDaARwAHgAgAFGiAHLAZIBATOYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=6fx6ZffFMJ_O1e8P_fSzmA0&bih=602&biw=1146#imgrc=xDVhIjF_6BV9fM
+3. https://www.google.com/search?q=Hong+Kong+Cultural+Centre&sca_esv=590909283&tbm=isch&sxsrf=AM9HkKl8YfK7etK4LZfc0MseWzJpz_U5kw:1702568358492&source=lnms&sa=X&ved=2ahUKEwjsvdqxoY-DAxW-p1YBHZCGA-AQ_AUoAnoECAEQBA&biw=1146&bih=602&dpr=1.25#imgrc=A7H3cCDlhVtQfM
+4. https://www.google.com/search?q=%E9%A6%99%E6%B8%AF%E7%A7%91%E5%AD%B8%E9%A4%A8&sca_esv=590909283&tbm=isch&sxsrf=AM9HkKnSkSb1lUCXcjyO2U1iXNiGrHaC2g:1702568187650&source=lnms&sa=X&ved=2ahUKEwjq4Z7goI-DAxUf2jQHHTorAfIQ_AUoAnoECAUQBA&biw=1146&bih=602&dpr=1.25#imgrc=PxyBrjiqXMzb1M
+5. https://www.google.com/search?q=%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%BD%B1%E8%B3%87%E6%96%99%E9%A4%A8&tbm=isch&ved=2ahUKEwios6-soY-DAxUIr1YBHWIoB5MQ2-cCegQIABAA&oq=%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%BD%B1%E8%B3%87%E6%96%99%E9%A4%A8&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYMgcIABCABBAYOgQIIxAnUIEDWIEDYM4JaABwAHgAgAFEiAF8kgEBMpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=myF7Zej5EYje2roP4tCcmAk&bih=602&biw=1146#imgrc=PjVtLR4ucNc84M
